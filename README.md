@@ -7,7 +7,7 @@ Each project represent different proccesses and ideas of coding as I learned the
 
 Hangman uses the ideas of Configurations and Backtrackers to create and solve an interactive game of "Hangman"
 
-Moonbase uses synchronized keys, enums, classes and their implemntation to allow virtual rovers to share a tunnel and manage traffic.
+Moonbase uses synchronized keys, enums, classes and their implementation to allow virtual rovers to share a tunnel and manage traffic.
 
 GvT creates an arena for virtual fightrs that use different parent and child classes to have virtual goat classes fight.
 
